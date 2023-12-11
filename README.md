@@ -1,4 +1,7 @@
 # RecSys Challenge 2023
+> **Predicting Conversion Rate in Advertising Systems: A Two-Stage Approach with LightGBM**\
+> Lulu Wang, Yu Zhang, Huayang Zhao, Zhewei Song, Jiaxin Hu\
+> Paper: https://github.com/colorblank/recsys-challenge-2023/blob/main/recsys2023_challenge.pdf
 
 This project is a solution of Recsys Challenge 2023 provided by the team ```Ainvest```. For more details about this challenge, please visit the official website (https://sharechat.com/recsys2023).
 
